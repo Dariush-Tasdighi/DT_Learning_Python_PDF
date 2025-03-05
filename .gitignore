@@ -1,0 +1,13 @@
+.db
+.env
+data/
+.venv/
+.vscode/
+install/
+__pycache__/
+image_files/sample_01/
+image_files/sample_02/
+image_files/sample_03/
+image_files/sample_04/
+image_files/sample_05/
+image_files/sample_05_original_names/
